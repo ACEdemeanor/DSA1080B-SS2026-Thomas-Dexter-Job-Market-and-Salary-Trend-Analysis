@@ -5,7 +5,7 @@ Dataset obtained from Kaggle:
  [ https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025/data]
 
 ## Number of Rows
-The dataset contains over 8,000 job listings.
+The dataset contains over 15,000 job listings.
 
 ## Variables Description
 - job_title: Job role/title
